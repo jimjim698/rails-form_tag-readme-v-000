@@ -1,4 +1,4 @@
-require_relative 'rails_helper'
+require 'rails_helper'
 
 describe 'new post' do
   it 'ensures that the form route works with /new action' do
