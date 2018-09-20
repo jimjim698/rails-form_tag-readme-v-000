@@ -293,3 +293,15 @@ Started GET "/posts/new" for 73.65.241.186 at 2018-09-20 20:15:12 +0000
 Processing by PostsController#new as HTML
   Rendered posts/new.html.erb within layouts/application (1.0ms)
 Completed 200 OK in 100ms (Views: 13.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts/new" for 73.65.241.186 at 2018-09-20 20:15:55 +0000
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 14ms (Views: 13.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts/new" for 73.65.241.186 at 2018-09-20 20:15:59 +0000
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 12ms (Views: 11.9ms | ActiveRecord: 0.0ms)
